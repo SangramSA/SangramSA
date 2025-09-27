@@ -22,8 +22,8 @@
 - 💼 **4+ Years Experience** in Data Engineering across healthcare, fintech, and transportation
 - 🔭 Building scalable data pipelines and real-time analytics solutions
 - 🌱 Expert in **AWS**, **Azure**, **Snowflake**, and modern data stack
-- 🎯 Actively seeking **Data Engineering opportunities** in San Diego or remote
-- ⚡ Fun fact: I've saved companies $50K+ annually through data automation!
+- 🎯 Seeking opportunities to work with **modern data stacks and cloud-native architectures**
+- ⚡ Fun fact: When I'm not optimizing queries, I'm optimizing my game on the soccer field or badminton court!
 
 ## 💼 Professional Experience
 
@@ -32,22 +32,22 @@
 
 ### **IDEXX Laboratories** | Data Engineer Intern
 *May 2024 - December 2024 | Westbrook, ME*
-- 🔄 Architected ETL pipeline using Airflow, AWS Lambda, RDS, and S3 to process partner laboratory data
+- 🔄 Architected cloud-native ETL pipelines to automate partner laboratory data processing
 - 💰 Eliminated 60+ hours of manual work weekly, saving $50K+ annually in developer resources
-- 📊 Established data quality framework with 50+ Pytest unit tests achieving 99.9% pipeline uptime
-- 🚀 Migrated batch processing from EMR/PySpark to Snowflake, reducing processing costs by $3K monthly
-- ⚡ Accelerated infrastructure deployment from 2 hours to 30 minutes using Terraform modules and Jenkins CI/CD
+- 📊 Established comprehensive data quality framework achieving 99.9% pipeline uptime
+- 🚀 Optimized data processing architecture, reducing operational costs by $3K monthly
+- ⚡ Streamlined infrastructure deployment processes, reducing deployment time by 75%
 
 ### **Connexis LLC** | Data Engineer
 *July 2021 - August 2023 | Pune, India*
-- 🏗️ Engineered data pipelines processing 1.5 TB daily toll transactions using Azure Synapse and PySpark
-- 📈 Implemented data quality framework with Great Expectations, reducing data incidents by 85%
-- 🔍 Built real-time streaming pipeline using Kafka for fraud detection, reducing detection time from 24 hours to 2 minutes
-- 🎯 Automated deployment using Azure DevOps pipelines, catching 95% of schema issues before production
+- 🏗️ Engineered large-scale data pipelines processing 1.5 TB daily toll transactions
+- 📈 Implemented automated data quality monitoring, reducing data incidents by 85%
+- 🔍 Built real-time fraud detection system, reducing detection time from 24 hours to 2 minutes
+- 🎯 Established CI/CD best practices, preventing 95% of issues before production deployment
 
 ### **IDeaS Revenue Solutions** | Associate Revenue Optimization Data Analyst
 *January 2020 - June 2021 | Pune, India*
-- 💰 Developed Python-based automation for hospitality dashboards, reducing manual efforts by 6 hours weekly
+- 💰 Automated hospitality analytics workflows, reducing manual efforts by 6 hours weekly
 - 🏨 Supported onboarding of 45 hotels to analytics platform through stakeholder collaboration
 - 📊 Facilitated cross-functional problem-solving and integration risk identification
 
@@ -135,32 +135,32 @@
 <summary><b>📈 Click to see my project highlights</b></summary>
 
 ### **SkillPathAI - Course Recommendation System**
-*AWS, Snowflake, dbt, PySpark, Airflow, LangChain, FastAPI*
-- 🎓 Built ETL pipeline to scrape 200K+ course records from 5 EdTech platforms
-- 🏗️ Implemented medallion architecture with dbt transformation models in Snowflake
-- 🚀 Deployed FastAPI microservice on Snowpark Container Services with Snowflake Cortex AI integration
-- 🔄 Fully automated CI/CD pipeline with Docker and GitHub Actions
+*Cloud Data Platform | Machine Learning | Microservices*
+- 🎓 Built data pipeline processing 200K+ course records from 5 EdTech platforms
+- 🏗️ Implemented modern data architecture following medallion design patterns
+- 🚀 Deployed AI-powered recommendation service using cloud-native technologies
+- 🔄 Established fully automated CI/CD pipeline for continuous deployment
 
 ### **Crypto Analytics Dashboard**
-*AWS (Kinesis, Lambda, Glue), Redshift, QuickSight, Python*
-- 📊 Engineered streaming pipeline using Kinesis Data Streams handling 100K crypto transactions daily
-- ⚡ Optimized Redshift query performance from 12s to 2.4s using KEY distribution and sort keys
-- 🎯 Implemented idempotent Lambda functions for effectively-once processing semantics
-- 📈 Automated ingestion using Kinesis Firehose with scheduled AWS Glue jobs for hourly aggregations
+*Real-time Streaming | Cloud Analytics | Data Optimization*
+- 📊 Engineered real-time streaming pipeline handling 100K daily transactions
+- ⚡ Optimized query performance by 80%, reducing response time from 12s to 2.4s
+- 🎯 Implemented exactly-once processing semantics for data accuracy
+- 📈 Automated hourly data aggregations for business intelligence reporting
 
 ### **Restaurant Inspection Analytics**
-*Azure Data Factory, SQL Server, Power BI, Tableau*
-- 🌆 Built Azure Data Factory pipeline integrating NYC Open Data API for real-time ingestion
-- 📊 Processed 50K+ restaurant inspection records with change detection logic
-- 📈 Created interactive Power BI/Tableau dashboard with 20+ DAX/calculated measures
-- 🌟 Designed star schema with 5 dimension tables for time-series and geographic analysis
+*Data Integration | Business Intelligence | Data Modeling*
+- 🌆 Built automated pipeline integrating public data APIs for real-time processing
+- 📊 Processed 50K+ inspection records with intelligent change detection
+- 📈 Created interactive dashboards with 20+ business metrics and KPIs
+- 🌟 Designed optimized data model for time-series and geographic analysis
 
 ### **Building Code Assistant AI System**
-*Graph RAG, Neo4j, Python, LangChain*
-- 🏢 Developed Graph RAG approach for building code compliance verification
-- 🔍 Integrated Neo4j for regulatory knowledge graph representation
+*Graph Database | Natural Language Processing | Knowledge Management*
+- 🏢 Developed AI-powered approach for regulatory compliance verification
+- 🔍 Built knowledge graph for complex regulatory relationships
 - 🤖 Created intelligent search system for construction regulations
-- 📄 Built context-aware Q&A system for building code queries
+- 📄 Implemented context-aware Q&A system for domain-specific queries
 
 </details>
 
