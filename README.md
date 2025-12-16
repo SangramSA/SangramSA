@@ -126,7 +126,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SangramSA&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2E86AB&ring=2E86AB&fire=FF6B6B&currStreakLabel=2E86AB" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SangramSA&theme=tokyonight&hide_border=true&background=1A1B27&stroke=2E86AB&ring=2E86AB&fire=FF6B6B&currStreakLabel=2E86AB" alt="GitHub Streak" />
 </div>
 
 ## 🔥 Featured Projects
@@ -231,7 +231,7 @@ class DataEngineer:
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SangramSA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SangramSA&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 ## 🐍 Watch my contribution snake!
